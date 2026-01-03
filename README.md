@@ -7,7 +7,7 @@
 Hi! I am Aubrey (or gaxhke if you shift my name by the amount of letters it has.)
 
 #### Second Hello
-*!?* [Second Hello - Jamie Paige](https://yewtu.be.com/watch?v=0CG_dtKnboY)!?
+*!?* [Second Hello - Jamie Paige](https://yewtu.be/watch?v=0CG_dtKnboY)!?
 
 ### Projects
 <div align="center">
