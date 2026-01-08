@@ -1,13 +1,5 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/42e5d1bf-013b-48ac-a55b-17f6ad4ef96a">
-  <h4>BEAT SOME ASS!</h4>
-</div>
-
 ### Hello
 Hi! I am Aubrey (or gaxhke if you shift my name by the amount of letters it has.)
-
-#### Second Hello
-*!?* [Second Hello - Jamie Paige](https://yewtu.be/watch?v=0CG_dtKnboY)!?
 
 ### Projects
 <div align="center">
@@ -20,3 +12,7 @@ Hi! I am Aubrey (or gaxhke if you shift my name by the amount of letters it has.
     </a>
   </div>
 </div>
+
+
+##### Second Hello
+*!?* [Second Hello - Jamie Paige](https://yewtu.be/watch?v=0CG_dtKnboY)!?
